@@ -1,0 +1,40 @@
+_repo: Isle-of-Wight_52058
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cooper, A. Heaton (Alfred Heaton)
+    alias: Cooper, Alfred Heaton
+    birthdate: 1863
+    deathdate: 1929
+    gutenberg_agent_id: '26663'
+    url: http://www.gutenberg.org/2009/agents/26663
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Heaton_Cooper
+creator:
+  author:
+    agent_name: Moncrieff, A. R. Hope (Ascott Robert Hope)
+    aliases:
+    - Moncrieff, Ascott Robert Hope
+    - Hope, A. R. (Ascott Robert)
+    - Hope, Ascott R. (Ascott Robert)
+    - Moncrieff, A.R. Hope
+    - Moncrieff, Robert Hope
+    birthdate: 1846
+    deathdate: 1927
+    gutenberg_agent_id: '44064'
+    url: http://www.gutenberg.org/2009/agents/44064
+description: ''
+gutenberg_issued: '2016-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52058'
+  lccn: 09005689
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Isle of Wight (England) -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: Isle of Wight
+url: http://www.gutenberg.org/ebooks/52058
